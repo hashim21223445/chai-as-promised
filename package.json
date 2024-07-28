@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "c8": "^9.1.0",
-    "chai": "^5.1.0",
+    "chai": "^5.1.1",
     "eslint": "^8.57.0",
     "mocha": "^10.4.0",
     "prettier": "^3.2.5"
