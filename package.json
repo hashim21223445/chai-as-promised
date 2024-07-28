@@ -32,7 +32,7 @@
     "format": "prettier --write lib test"
   },
   "dependencies": {
-    "check-error": "^2.0.0"
+    "check-error": "^2.1.1"
   },
   "peerDependencies": {
     "chai": ">= 2.1.2 < 6"
